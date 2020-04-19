@@ -4,7 +4,11 @@ Given an image of a dog, the algorithm will identify an estimate of the canineâ€
 
 ## Project Instructions
 Instructions
-1. Clone this repo
+1. Clone this repo and navigate to the project directory. 
+```
+git clone https://github.com/diarmaidfinnerty/Dog-Breed-Classifier.git
+cd dog-project
+```
 
 2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in the repo, at location path/to/dog-project/dogImages.
 
